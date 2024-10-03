@@ -3,7 +3,7 @@
 
 aaaaaaaaaaaaa
 
-🔭 **I’m currently working on:**  <br>Iaaaaaaaaaaaaaaaa.<br><br>🌱 **I’m currently learning:**  <br>aaaaaas<br><br>💬 **Ask me about**  <br>JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB, Elastic Search, Messaging Systems, AWS, System Designs, and any general software development questions.<br><br>
+🔭 **I’m currently working on:**  <br>Iaaaaaaaaaaaaaaaa.<br><br>🌱 **I’m currently learning:**  <br>aaaaaas<br><br> **aaa** <br><br>
 
 
 ## 🌐 Socials:
