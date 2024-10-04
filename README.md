@@ -8,4 +8,5 @@ My passion project is that I am currently working on a three-dimensional open-wo
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/hisham-chaudhry-0b638a331)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hisham-chaudhry-0b638a331)
+
