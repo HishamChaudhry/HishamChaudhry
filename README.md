@@ -4,7 +4,7 @@
 Currently working towards a bachelor's in Computer Science at UIC. My general skills include a creative mindset and maintaining motivation. 
 My passion project is that I am currently working on a three-dimensional open-world video game
 
-🌱 **Relevant/Learning skills: **  <br>C++, C, Python, Java, SQL, F#, Rust, GO<br>
+🌱 **Relevant/Learning skills: **  <br>C++, C, Python, Java, SQL, F#, Go<br>
 
 
 ## 🌐 Socials:
